@@ -1,4 +1,6 @@
 #koneksi
+#https://www.c-sharpcorner.com/UploadFile/75a48f/micro/
+
 import pypyodbc as pyodbc
 
 db_host = '.'
